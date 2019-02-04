@@ -239,18 +239,22 @@
 		E9760AD821BD1EC8000F630D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 8F9M2DNK28;
+				DEVELOPMENT_TEAM = 2W2TRXK5DZ;
 				PRODUCT_NAME = localebase64icon;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
 		};
 		E9760AD921BD1EC8000F630D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 8F9M2DNK28;
+				DEVELOPMENT_TEAM = 2W2TRXK5DZ;
 				PRODUCT_NAME = localebase64icon;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Release;
 		};
